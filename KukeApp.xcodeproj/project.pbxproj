@@ -1249,7 +1249,7 @@
 					"$(PROJECT_DIR)/KukeApp/Define/UMShare",
 					"$(PROJECT_DIR)/KukeApp/Define/UMShare/UMSocialUI",
 				);
-				GCC_PREFIX_HEADER = /Users/iosDeveloper/Desktop/KukeApp/KukeApp/Define/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/iosDeveloper/KUKE99/KukeApp/Define/PrefixHeader.pch;
 				INFOPLIST_FILE = KukeApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
@@ -1354,7 +1354,7 @@
 					"$(PROJECT_DIR)/KukeApp/Define/UMShare",
 					"$(PROJECT_DIR)/KukeApp/Define/UMShare/UMSocialUI",
 				);
-				GCC_PREFIX_HEADER = /Users/iosDeveloper/Desktop/KukeApp/KukeApp/Define/PrefixHeader.pch;
+				GCC_PREFIX_HEADER = /Users/iosDeveloper/KUKE99/KukeApp/Define/PrefixHeader.pch;
 				INFOPLIST_FILE = KukeApp/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = (
