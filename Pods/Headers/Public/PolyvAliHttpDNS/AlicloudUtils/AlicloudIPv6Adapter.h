@@ -1,0 +1,1 @@
+../../../../PolyvAliHttpDNS/AlicloudUtils.framework/Headers/AlicloudIPv6Adapter.h

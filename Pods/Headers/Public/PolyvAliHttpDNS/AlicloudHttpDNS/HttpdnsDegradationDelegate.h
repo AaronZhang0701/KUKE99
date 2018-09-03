@@ -1,0 +1,1 @@
+../../../../PolyvAliHttpDNS/AlicloudHttpDNS.framework/Headers/HttpdnsDegradationDelegate.h
